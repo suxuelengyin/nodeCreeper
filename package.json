@@ -1,0 +1,19 @@
+{
+  "name": "nodecreeper",
+  "version": "1.0.0",
+  "description": "node抓取网页数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suxuelengyin/nodeCreeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suxuelengyin/nodeCreeper/issues"
+  },
+  "homepage": "https://github.com/suxuelengyin/nodeCreeper#readme"
+}
